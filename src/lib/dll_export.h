@@ -1,0 +1,1 @@
+#define LIBExport __declspec( dllexport )
